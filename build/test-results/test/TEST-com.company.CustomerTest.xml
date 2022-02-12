@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.CustomerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-10T14:28:41" hostname="DESKTOP-DD6TE2T" time="0.002">
+  <properties/>
+  <testcase name="Should create an Instance of the class Customer" classname="com.company.CustomerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
