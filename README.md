@@ -46,6 +46,7 @@ docker run mortgage-plan:1.0
 
 [Link to Azure App Service](https://mortgageplan.azurewebsites.net)
 
+<b>Note that the App Service is running on a free plan, which when has been idle can take up to and more than a minute to respond with the content, please be patient when waiting for the server to respond.</b>
 I have left the server on as for now, but if the App Service is for some reason unreachable (you never know, especially with Microsoft), please feel free to contact me regarding this.
 
 
